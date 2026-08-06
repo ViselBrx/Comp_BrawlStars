@@ -13,6 +13,7 @@ O projeto sorteia automaticamente **3 brawlers diferentes**, podendo ser utiliza
 - Roubo
 - Treinos
 - Campeonatos internos
+- Etc...
 
 ---
 
