@@ -25,6 +25,7 @@ const brawlers = [
     "Colette",
     "Colt",
     "Cordelius",
+    "Cosmo",
     "Crow",
     "Damian",
     "Darryl",
@@ -103,6 +104,7 @@ const brawlers = [
     "Tara",
     "Tick",
     "Trunk",
+    "Vince",
     "Willow",
     "Wendy",
     "Ziggy"
