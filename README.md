@@ -66,8 +66,6 @@ Ou seja,
 ## Estrutura
 
 ```
-brawl-stars-trio-random-comp
-
 ├── index.html
 ├── style.css
 ├── script.js
@@ -78,9 +76,6 @@ brawl-stars-trio-random-comp
 
 ## Como executar
 
-Basta abrir o arquivo ```index.html``` com Live Server Extension
-
-
-ou publicar o projeto no GitHub Pages.
+Basta abrir o arquivo ```index.html``` com Live Server Extension.
 
 ---
